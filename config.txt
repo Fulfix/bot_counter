@@ -1,0 +1,3 @@
+TOKEN=your_bot_token
+CHANNEL_ID=your_channel_id
+
